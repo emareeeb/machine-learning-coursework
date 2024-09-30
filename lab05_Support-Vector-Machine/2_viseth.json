@@ -1,0 +1,6398 @@
+[
+    {
+        "viscosity": 0.99344,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 1.0,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 1.0015,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99786,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99615,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9924,
+        "ethanol": 12.9
+    },
+    {
+        "viscosity": 0.99416,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99394,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99242,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99704,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99566,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99648,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99769,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9991,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99444,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99698,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99484,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.994,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99738,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99362,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.99352,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99668,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99669,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99494,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9951,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9997,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99718,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99467,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.99614,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9991,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9922,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 0.99596,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99786,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99735,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99712,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9991,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99551,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9943,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.99859,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99522,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.99575,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99729,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99652,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99704,
+        "ethanol": 10.03333333
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99702,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99531,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99084,
+        "ethanol": 14.0
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 13.3
+    },
+    {
+        "viscosity": 0.99603,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99547,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99685,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9924,
+        "ethanol": 12.9
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99552,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 1.001,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 1.0,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99695,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99504,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.99768,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.99624,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99719,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99256,
+        "ethanol": 12.9
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9991,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99396,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99624,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99676,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.99182,
+        "ethanol": 13.6
+    },
+    {
+        "viscosity": 0.99525,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.9961,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99518,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99716,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99356,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99914,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99828,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.99538,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.99783,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 1.0,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9965,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99656,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99538,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99549,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99685,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9908,
+        "ethanol": 14.0
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99328,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9995,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99572,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99675,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.99675,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99551,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99632,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99632,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99655,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99438,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99458,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.999,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99798,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99557,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99565,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99668,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99428,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9921,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99474,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.99588,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99518,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99632,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99692,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99346,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.99622,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.9965,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99551,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99292,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99529,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99592,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99664,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99836,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99714,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99659,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.9983,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99549,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.99322,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9949,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99564,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99677,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99728,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99336,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99735,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9948,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9957,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99386,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.99514,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9951,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9948,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9942,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99444,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.9902,
+        "ethanol": 13.6
+    },
+    {
+        "viscosity": 0.99523,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.999,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9934,
+        "ethanol": 13.1
+    },
+    {
+        "viscosity": 1.0014,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99697,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99378,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.99616,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99615,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99685,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99454,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9934,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.99616,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99471,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.99522,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99588,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99621,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 1.001,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.99915,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99735,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99748,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99471,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99694,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.995,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99726,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9983,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9983,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9952,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99569,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99629,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99552,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 1.0,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99468,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.99668,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9953,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99669,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9961,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9977,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99388,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99585,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99599,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99625,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99489,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99316,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99476,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99331,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.99746,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9933,
+        "ethanol": 13.6
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 9.95
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99736,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99745,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99747,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9997,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99418,
+        "ethanol": 12.9
+    },
+    {
+        "viscosity": 0.99708,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 1.0022,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99655,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99532,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99545,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.999,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99654,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99716,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9965,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9961,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99675,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9949,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 1.00315,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9993,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99642,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 1.0002,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.9998,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 1.0002,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9952,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99705,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.9997,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.999,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99815,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99677,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99599,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 1.0,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99592,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99605,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.99785,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99689,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99545,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99538,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99652,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99483,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99572,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9947,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9947,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99708,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99577,
+        "ethanol": 13.2
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99865,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99519,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 1.0004,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99484,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.9981,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99007,
+        "ethanol": 12.7
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99814,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99818,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99714,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99752,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99528,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99605,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99464,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99638,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99417,
+        "ethanol": 12.7
+    },
+    {
+        "viscosity": 0.99623,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99938,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 8.4
+    },
+    {
+        "viscosity": 0.99818,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99634,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99803,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99492,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 8.7
+    },
+    {
+        "viscosity": 0.9981,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99444,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 1.0001,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99774,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99584,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99612,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99641,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99572,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99655,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99358,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99666,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 1.0002,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.99685,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99334,
+        "ethanol": 12.6
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99484,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99314,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.99504,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99568,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99769,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99709,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99286,
+        "ethanol": 13.0
+    },
+    {
+        "viscosity": 0.99744,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99064,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.995,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.99592,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99534,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99655,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99531,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.99546,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99701,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.99578,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9992,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99191,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 1.00025,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99547,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99572,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99666,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9947,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.99815,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99699,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.99728,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99543,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.99732,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 13.4
+    },
+    {
+        "viscosity": 0.99665,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99472,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99635,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99258,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.99517,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99683,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9965,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99538,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99676,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99546,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99622,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99472,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.994,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99824,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99612,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.99732,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99587,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99604,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99824,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99499,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9983,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 1.00012,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99686,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9998,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99437,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99717,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 1.00015,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99622,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.99638,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99901,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99633,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99354,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 0.99616,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9998,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99616,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99502,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.995,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99787,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99554,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99745,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99774,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99374,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99235,
+        "ethanol": 13.1
+    },
+    {
+        "viscosity": 0.99616,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99702,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99627,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99376,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99633,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.99587,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99728,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99765,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99701,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99842,
+        "ethanol": 9.233333333
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99655,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99693,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99512,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99629,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99642,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.99672,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99735,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99688,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99462,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99676,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9989,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.99823,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 1.0008,
+        "ethanol": 8.4
+    },
+    {
+        "viscosity": 0.99572,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99592,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99855,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9981,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99712,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9997,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99544,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9953,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99577,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.995,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99566,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.9927,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.99397,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.99419,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99724,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99557,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99458,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99639,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9946,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99661,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99439,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.99738,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99464,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99788,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99516,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99402,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99565,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99608,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99976,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.995,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9961,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99721,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.99581,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99736,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99543,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.99925,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99748,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 0.99541,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9991,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99782,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99648,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99438,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9985,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 1.001,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99692,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9991,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99824,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9975,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99685,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 1.0004,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.99396,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9954,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 1.0014,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99546,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9937,
+        "ethanol": 13.0
+    },
+    {
+        "viscosity": 0.99598,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9993,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99708,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99652,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9985,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.99508,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9948,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99306,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.99612,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99822,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99494,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9961,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99576,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.99578,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99498,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 1.0015,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99414,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99735,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9998,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99674,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 1.0022,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9916,
+        "ethanol": 14.0
+    },
+    {
+        "viscosity": 0.99574,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99675,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.99562,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99264,
+        "ethanol": 12.9
+    },
+    {
+        "viscosity": 0.99534,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99747,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99489,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.99576,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99727,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99242,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99376,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.9961,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99935,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99572,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99598,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.9932,
+        "ethanol": 12.9
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9998,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.999,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9975,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 1.00315,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99438,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9951,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99524,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9929,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99553,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99614,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.99605,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9977,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99408,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99538,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9936,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9917,
+        "ethanol": 14.0
+    },
+    {
+        "viscosity": 0.99656,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99384,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.99708,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99488,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99724,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99585,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 1.0004,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.99803,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99694,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99479,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.99706,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99774,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99594,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99892,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99638,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99514,
+        "ethanol": 10.55
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 1.0001,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99525,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99608,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99566,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9981,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99855,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99636,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99352,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 0.99652,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.99734,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99613,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99498,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99768,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99613,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99538,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.995,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99568,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.99562,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.99745,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9937,
+        "ethanol": 13.0
+    },
+    {
+        "viscosity": 0.99557,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.99524,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99834,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9935,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.99438,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9965,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 1.0001,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99498,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9975,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9946,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9948,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99632,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.995,
+        "ethanol": 12.7
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99538,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9928,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99402,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99378,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99655,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99659,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9948,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9981,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99585,
+        "ethanol": 9.05
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9924,
+        "ethanol": 13.0
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99634,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99623,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9957,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99157,
+        "ethanol": 13.6
+    },
+    {
+        "viscosity": 0.99538,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99323,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 1.00242,
+        "ethanol": 8.8
+    },
+    {
+        "viscosity": 0.9948,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.9957,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99471,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 0.999,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.99392,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99646,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9953,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99408,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.99236,
+        "ethanol": 10.55
+    },
+    {
+        "viscosity": 0.99332,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 1.0006,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99688,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 1.0018,
+        "ethanol": 13.0
+    },
+    {
+        "viscosity": 0.9998,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 1.0,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99534,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99612,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99636,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.99791,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99836,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99743,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99817,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9981,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 1.00024,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99586,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.9985,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99746,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9938,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9912,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.99509,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.99738,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99628,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99258,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.99556,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9992,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 1.001,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99448,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99639,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.99784,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.99772,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99746,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99572,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9983,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99746,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9944,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9942,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99556,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9961,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99555,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9992,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99584,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9993,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99456,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.99786,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99692,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99508,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9975,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99758,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9941,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99718,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99348,
+        "ethanol": 11.95
+    },
+    {
+        "viscosity": 0.99686,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.99444,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99588,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 1.0008,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.99364,
+        "ethanol": 12.6
+    },
+    {
+        "viscosity": 0.99922,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 1.0001,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 1.0002,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99627,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99736,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99643,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 1.0006,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99888,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99162,
+        "ethanol": 12.9
+    },
+    {
+        "viscosity": 0.99854,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9998,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99582,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9965,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.99656,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 1.0004,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.995,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.99418,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.99652,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99615,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9944,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99562,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99736,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99685,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 1.0002,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.99631,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9981,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 1.0032,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99878,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99801,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.99713,
+        "ethanol": 9.566666667
+    },
+    {
+        "viscosity": 1.0,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99448,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 1.0003,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9948,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99706,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.99735,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99648,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99371,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99609,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99554,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 1.0002,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99622,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99645,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 1.0,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99575,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99573,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99965,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99526,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.99712,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 1.0014,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9948,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99694,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99786,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9946,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.995,
+        "ethanol": 13.4
+    },
+    {
+        "viscosity": 1.0004,
+        "ethanol": 13.0
+    },
+    {
+        "viscosity": 0.99552,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99501,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99426,
+        "ethanol": 12.7
+    },
+    {
+        "viscosity": 0.99588,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99633,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 1.00242,
+        "ethanol": 8.8
+    },
+    {
+        "viscosity": 0.99672,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99744,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99371,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99865,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 1.0003,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99451,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9961,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99494,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9954,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9991,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99476,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99974,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99589,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.99458,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.99622,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9983,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99617,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.99892,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99402,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9997,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99689,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99586,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.99734,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99693,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99746,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99408,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.99603,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99402,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99672,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99472,
+        "ethanol": 10.75
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99495,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.99604,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.99568,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9954,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99538,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 1.0014,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.99331,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.99761,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99578,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 1.00289,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99704,
+        "ethanol": 10.03333333
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99613,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 1.0014,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99528,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99593,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99724,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99518,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99787,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 12.7
+    },
+    {
+        "viscosity": 0.99538,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 1.00015,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99528,
+        "ethanol": 12.4
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99488,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99586,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9947,
+        "ethanol": 14.0
+    },
+    {
+        "viscosity": 1.0,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99354,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99647,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 1.0004,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99975,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99488,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 1.00005,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99616,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99346,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.9965,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.99619,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99534,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 1.00369,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9983,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99814,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9997,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 14.9
+    },
+    {
+        "viscosity": 0.99566,
+        "ethanol": 11.06666667
+    },
+    {
+        "viscosity": 0.99678,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99684,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99828,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.99768,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.99258,
+        "ethanol": 12.9
+    },
+    {
+        "viscosity": 0.99294,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99667,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99656,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99496,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9992,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99459,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9991,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99739,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99356,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.9983,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99593,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99625,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99808,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9961,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99746,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9944,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99576,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99636,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99341,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99007,
+        "ethanol": 12.7
+    },
+    {
+        "viscosity": 1.0006,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99651,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99494,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9952,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99675,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99803,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99498,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.99818,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99638,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99745,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99318,
+        "ethanol": 12.7
+    },
+    {
+        "viscosity": 0.99736,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99596,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99362,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99625,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99514,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99712,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 1.0026,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9989,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.99666,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99832,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99914,
+        "ethanol": 8.5
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99562,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99462,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99689,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9947,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9957,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99652,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99664,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.99154,
+        "ethanol": 14.0
+    },
+    {
+        "viscosity": 0.99385,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99914,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99606,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99448,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99745,
+        "ethanol": 9.55
+    },
+    {
+        "viscosity": 0.99392,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99845,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99627,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 1.0002,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99538,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9957,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99514,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9998,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99783,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9975,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9936,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9991,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9987,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99743,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99512,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99796,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99746,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.99586,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99438,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99502,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99536,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99745,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99774,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 12.6
+    },
+    {
+        "viscosity": 0.99395,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 1.001,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99615,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99702,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9952,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.99425,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99434,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99524,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99379,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.99718,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.99387,
+        "ethanol": 12.6
+    },
+    {
+        "viscosity": 0.99558,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9961,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.99685,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9998,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9922,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 1.0006,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99358,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99658,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.9928,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99545,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.99647,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9952,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 1.0006,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9948,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.99738,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99577,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.99732,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9943,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99615,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99357,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99546,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9946,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 1.00369,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.99489,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99733,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9983,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99918,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99636,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99252,
+        "ethanol": 13.3
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99654,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9993,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99734,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9997,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99521,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99491,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 1.0002,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 1.0006,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.99842,
+        "ethanol": 9.25
+    },
+    {
+        "viscosity": 0.995,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9992,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99516,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.99542,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99616,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99554,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.999,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 1.0021,
+        "ethanol": 12.7
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99558,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99649,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9952,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99572,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99516,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.99745,
+        "ethanol": 9.55
+    },
+    {
+        "viscosity": 0.99686,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9952,
+        "ethanol": 13.3
+    },
+    {
+        "viscosity": 1.0002,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9982,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99685,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99864,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99689,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9942,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 8.7
+    },
+    {
+        "viscosity": 0.9971,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99636,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99458,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99642,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9965,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99356,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99316,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 0.99702,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99572,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 1.0008,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.99722,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9998,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99788,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99817,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9992,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.99473,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.99522,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99638,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9934,
+        "ethanol": 12.5
+    },
+    {
+        "viscosity": 0.99476,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 1.0004,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.99533,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 9.1
+    },
+    {
+        "viscosity": 0.99356,
+        "ethanol": 12.9
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 13.4
+    },
+    {
+        "viscosity": 0.999,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.99888,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9981,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99294,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.9994,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99764,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99552,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9957,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99748,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99656,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.99506,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 0.99852,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99674,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.99939,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99628,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99798,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99774,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9955,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9952,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9954,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9965,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9934,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 1.00315,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.9969,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9992,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99586,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.99586,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.99713,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9962,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 1.0014,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.99346,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9947,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.99724,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9916,
+        "ethanol": 14.0
+    },
+    {
+        "viscosity": 0.99182,
+        "ethanol": 13.56666667
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 1.0026,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99692,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 1.0002,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 12.1
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99672,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99478,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.99606,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99546,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99779,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99396,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99526,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 1.00005,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99604,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99725,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99612,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99682,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99522,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99516,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99546,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99672,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99478,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9977,
+        "ethanol": 9.9
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 1.0004,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.9956,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.9975,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9996,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99524,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.99564,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.99664,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99374,
+        "ethanol": 11.6
+    },
+    {
+        "viscosity": 1.0004,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99388,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 1.0,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.9946,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99498,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.9964,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9988,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9999,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99516,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9973,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9966,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99486,
+        "ethanol": 12.6
+    },
+    {
+        "viscosity": 0.99376,
+        "ethanol": 12.3
+    },
+    {
+        "viscosity": 0.99378,
+        "ethanol": 12.8
+    },
+    {
+        "viscosity": 0.9965,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99568,
+        "ethanol": 11.3
+    },
+    {
+        "viscosity": 0.9952,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99787,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.99495,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99552,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.9965,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99546,
+        "ethanol": 11.4
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99734,
+        "ethanol": 11.5
+    },
+    {
+        "viscosity": 0.9915,
+        "ethanol": 13.5
+    },
+    {
+        "viscosity": 0.99756,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.996,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99534,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99754,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99782,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9974,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99558,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.99576,
+        "ethanol": 10.1
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99516,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.99668,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9953,
+        "ethanol": 12.6
+    },
+    {
+        "viscosity": 0.99536,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9967,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99448,
+        "ethanol": 9.5
+    },
+    {
+        "viscosity": 0.9997,
+        "ethanol": 10.2
+    },
+    {
+        "viscosity": 0.99574,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99683,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.99534,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.9958,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.99565,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9977,
+        "ethanol": 10.4
+    },
+    {
+        "viscosity": 0.997,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.9968,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9978,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.9979,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99414,
+        "ethanol": 12.2
+    },
+    {
+        "viscosity": 0.9972,
+        "ethanol": 9.0
+    },
+    {
+        "viscosity": 0.99514,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99064,
+        "ethanol": 11.7
+    },
+    {
+        "viscosity": 0.99892,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.9949,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.9981,
+        "ethanol": 10.8
+    },
+    {
+        "viscosity": 0.99634,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99633,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9976,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 0.9949,
+        "ethanol": 11.1
+    },
+    {
+        "viscosity": 0.99612,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99745,
+        "ethanol": 9.8
+    },
+    {
+        "viscosity": 0.99467,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.99628,
+        "ethanol": 10.9
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9959,
+        "ethanol": 9.2
+    },
+    {
+        "viscosity": 0.99576,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 0.99419,
+        "ethanol": 11.2
+    },
+    {
+        "viscosity": 1.001,
+        "ethanol": 11.9
+    },
+    {
+        "viscosity": 0.99488,
+        "ethanol": 11.8
+    },
+    {
+        "viscosity": 0.9981,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.99508,
+        "ethanol": 9.6
+    },
+    {
+        "viscosity": 0.99358,
+        "ethanol": 11.0
+    },
+    {
+        "viscosity": 0.99801,
+        "ethanol": 9.7
+    },
+    {
+        "viscosity": 0.9963,
+        "ethanol": 9.4
+    },
+    {
+        "viscosity": 0.99682,
+        "ethanol": 10.3
+    },
+    {
+        "viscosity": 0.9951,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9984,
+        "ethanol": 10.0
+    },
+    {
+        "viscosity": 1.0021,
+        "ethanol": 12.7
+    },
+    {
+        "viscosity": 0.99745,
+        "ethanol": 12.0
+    },
+    {
+        "viscosity": 0.9975,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.9991,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.998,
+        "ethanol": 9.3
+    },
+    {
+        "viscosity": 0.99624,
+        "ethanol": 10.7
+    },
+    {
+        "viscosity": 0.99492,
+        "ethanol": 10.6
+    },
+    {
+        "viscosity": 0.9986,
+        "ethanol": 10.5
+    },
+    {
+        "viscosity": 0.99613,
+        "ethanol": 11.1
+    }
+]
